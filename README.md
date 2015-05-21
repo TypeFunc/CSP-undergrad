@@ -32,7 +32,7 @@ Here are some references for learning about the algebraic approach to CSP:
 
 --------------------
 
-Some basic facts related to (the algebraic version of) the CSP-dichotomy conjecture: [open notebook entry](http://williamdemeo.github.io/csp/)
+Basic facts about the algebraic CSP-dichotomy conjecture: [open notebook entry](http://williamdemeo.github.io/csp/)
 
 A connection between 3-SAT and partition lattices: [open notebook entry](http://williamdemeo.github.io/2015/01/11/three-sat-and-partition-lattices/)
 
