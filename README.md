@@ -13,7 +13,8 @@ editing privileges.)
 
 Here are some references for learning about the algebraic approach to CSP:
 
-1. Cliff Bergman's nice summary of the most important CSP concepts: [slides](https://orion.math.iastate.edu/jdhsmith/math/CSPGTUA.pdf)
+1. Cliff Bergman's nice summary of some important CSP concepts:
+   [seminar handout](https://orion.math.iastate.edu/jdhsmith/math/CSPGTUA.pdf)
 
 2. Miklos Maroti's overview of CSP: [slides](http://www.math.u-szeged.hu/~mmaroti/pdf/talks/2012%20Tutorial%20on%20the%20constraint%20satisfaction%20problem.pdf)
 
