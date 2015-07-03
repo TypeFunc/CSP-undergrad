@@ -7,6 +7,10 @@ most relevant entries here:
 
 https://en.wikipedia.org/wiki/User:Williamdemeo/Books/Complexity_Theory
 
+An alternative with lots more details is here:
+
+https://en.wikipedia.org/wiki/User:Williamdemeo/Books/Complexity,_Computability,_and_Types
+
 (If you want to help "edit" this "book" by adding other pages that you have read
 and found particularly useful, let me know and I'll give you book
 editing privileges.)
