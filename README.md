@@ -25,10 +25,10 @@ Here are some references for learning about the algebraic approach to CSP:
 3. Benoit Larose's broad overview of CSP and Algebra: [slides](http://www.lsv.ens-cachan.fr/Events/fmt2012/SLIDES/benoitlarose.pdf)
 
 4. Ross Willard's slides from SSAOS 2014:
-<a href="Slides/ssaos2014-hand1.pdf"> lecture 1</a>, 
-<a href="Slides/ssaos2014-hand2.pdf"> lecture 2</a>, 
-<a href="Slides/ssaos2014-hand3.pdf"> lecture 3</a>.  
-(a very nice presentation with lots of details about some interesting new ideas)
+<a href="Slides/2014-ssaos-ross1.pdf"> lecture 1</a>, 
+<a href="Slides/2014-ssaos-ross2.pdf"> lecture 2</a>, 
+<a href="Slides/2014-ssaos-ross3.pdf"> lecture 3</a>
+(very nice presentation; lots of details about the basics; some interesting new ideas)
 
 5. Libor Barto's overview: [paper](http://www.karlin.mff.cuni.cz/~barto/Articles/Barto_SigLog_Final.pdf)
 
